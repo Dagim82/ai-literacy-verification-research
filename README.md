@@ -76,8 +76,8 @@ Organized in strict accordance with the course research project requirements:
 ## 🔬 Reproducing the Analysis
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Dagim82/workfair-research-project.git
-   cd workfair-research-project
+   git clone https://github.com/Dagim82/ai-literacy-verification-research.git
+   cd ai-literacy-verification-research
    ```
 2. Datasets and codebooks will be located in `/data`.
 3. Open the `.jasp` project files located in `/analysis` to inspect and reproduce statistical tests (correlations, ANOVA comparisons, and regression models).
