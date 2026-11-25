@@ -22,12 +22,11 @@ The study employs a quantitative, cross-sectional correlational survey design ta
 
 | No. | Full Name | Student ID | 
 | :--- | :--- | :--- | 
-| 1 | **Abigia Getu** | UGR/7827/17 | 
-| 2 | **Meles Dejene** | UGR/5052/17 | 
-| 3 | **Blen Tsegaye** | UGR/6274/17 | 
-| 4 | **Dagim Yeneneh** | UGR/0986/17 | 
-| 5 | **Dawit Nigussie** | UGR/4605/17 | 
-| 6 | **Elilta Workineh** | UGR/4170/17 | 
+| 1 | **Meles Dejene** | UGR/5052/17 | 
+| 2 | **Blen Tsegaye** | UGR/6274/17 | 
+| 3 | **Dagim Yeneneh** | UGR/0986/17 | 
+| 4 | **Dawit Nigussie** | UGR/4605/17 | 
+| 5 | **Elilta Workineh** | UGR/4170/17 | 
 
 ---
 
