@@ -17,7 +17,7 @@ Building upon our approved research proposal, this study investigates university
 ## 👥 Group Members & Roles
 
 | No. | Full Name | Student ID | 
-| :--- | :--- | :--- | :--- |
+| :--- | :--- | :--- | 
 | 1 | **Abigia Getu** | UGR/7827/17 | 
 | 2 | **Meles Dejene** | UGR/5052/17 | 
 | 3 | **Blen Tsegaye** | UGR/6274/17 |
