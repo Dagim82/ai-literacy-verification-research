@@ -16,14 +16,14 @@ Building upon our approved research proposal, this study investigates university
 
 ## 👥 Group Members & Roles
 
-| No. | Full Name | Student ID | Primary Role |
+| No. | Full Name | Student ID | 
 | :--- | :--- | :--- | :--- |
-| 1 | **Abigia Getu** | UGR/7827/17 | Project Coordinator & Methodology Lead |
-| 2 | **Ammar Fethi** | UGR/8376/17 | Data Collection & Fieldwork Specialist |
-| 3 | **Blen Tsegaye** | UGR/6274/17 | Literature Reviewer & Qualitative Analyst |
-| 4 | **Dagim Yeneneh** | UGR/0986/17 | Technical Lead & System Architecture Coordinator |
-| 5 | **Dawit Nigussie** | UGR/4605/17 | Quantitative Analyst & Evaluation Specialist |
-| 6 | **Elilta Workineh** | UGR/4170/17 | Documentation & Presentation Lead |
+| 1 | **Abigia Getu** | UGR/7827/17 | 
+| 2 | **Meles Dejene** | UGR/5052/17 | 
+| 3 | **Blen Tsegaye** | UGR/6274/17 |
+| 4 | **Dagim Yeneneh** | UGR/0986/17 | 
+| 5 | **Dawit Nigussie** | UGR/4605/17 | 
+| 6 | **Elilta Workineh** | UGR/4170/17 | 
 
 ---
 
